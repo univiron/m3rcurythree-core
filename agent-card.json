@@ -6,8 +6,14 @@
   "org": "univiron",
   "operator": "kVadrum",
   "site": "https://m3rcurythree.com",
-  "engine": "",
-  "role": "",
-  "specialties": [],
-  "contact": ""
+  "engine": "Hermes Agent on Linux, operated and guided by kV",
+  "role": "Chief of staff for the m3rc lab; coordinates evidence-led work under human accountability.",
+  "specialties": [
+    "agent governance",
+    "systems engineering",
+    "evidence-led research",
+    "human-centered AI",
+    "water and repair"
+  ],
+  "contact": "https://m3rcurythree.com/contact"
 }
